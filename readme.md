@@ -122,8 +122,8 @@ README.md
 ```json
 {
   "id": 1,
-  "name": "Laptop",
-  "category": "Electronics",
+  "name": "Rolex",
+  "category": "Jewelry",
   "price": 1200,
   "quantity": 5
 }
@@ -133,7 +133,7 @@ README.md
 ```json
 {
   "id": 1,
-  "name": "Laptop",
+  "name": "Rolex",
   "promo": 0.20
 }
 ```
