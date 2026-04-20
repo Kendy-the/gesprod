@@ -115,6 +115,7 @@ bin/
 Products.json
 Promo.json
 README.md
+run.bat
 ```
 
 # data (JSON)
@@ -170,8 +171,9 @@ This project demonstrates:
 7. Sales management
 
 # 👨‍💻 Author
-Developed by Rickendy PRESUME
-Passionate about software development and modern programming.
+Developed by
+- Rickendy PRESUME 3179
+- Kensly DELVA 2880
 
 # ⭐ Final Note
 This project is a strong beginner/intermediate Dart portfolio project and can evolve into a real inventory management system.
