@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "bongu",
+    "promo": 1.15
+  },
+  {
+    "id": 2,
+    "name": "american jeans",
+    "promo": 23.0
+  },
+  {
+    "id": 3,
+    "name": "rolex",
+    "promo": 2.0
+  }
+]
