@@ -5,5 +5,12 @@
     "category": "jewelry",
     "price": 2000,
     "quantity": 109
+  },
+  {
+    "id": 3,
+    "name": "tshirt_nike",
+    "category": "clothing",
+    "price": 500,
+    "quantity": 50
   }
 ]
